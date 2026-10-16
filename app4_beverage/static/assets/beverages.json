@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Water",
+    "imagePath": "assets/water.png",
+    "description": "Refreshing natural drink. Essential for life.",
+    "price": 1.0,
+    "rating": 4.5
+  },
+  {
+    "name": "Tea",
+    "imagePath": "assets/tea.png",
+    "description": "A hot beverage made from tea leaves. Known for its calming effects.",
+    "price": 2.5,
+    "rating": 4.8
+  },
+  {
+    "name": "Coffee",
+    "imagePath": "assets/coffee.png",
+    "description": "A brewed drink made from roasted coffee beans. Provides a boost of energy.",
+    "price": 3.0,
+    "rating": 4.7
+  },
+  {
+    "name": "Milk",
+    "imagePath": "assets/milk.png",
+    "description": "A nutrient-rich liquid food produced by the mammary glands of mammals.",
+    "price": 1.5,
+    "rating": 4.6
+  },
+  {
+    "name": "Orange Juice",
+    "imagePath": "assets/orange_juice.png",
+    "description": "A liquid extract of the orange tree fruit. High in vitamin C.",
+    "price": 2.0,
+    "rating": 4.5
+  },
+  {
+    "name": "Soda",
+    "imagePath": "assets/soda.png",
+    "description": "Carbonated water with added flavors and sweeteners.",
+    "price": 1.2,
+    "rating": 3.8
+  },
+  {
+    "name": "Lemonade",
+    "imagePath": "assets/lemonade.png",
+    "description": "A sweetened lemon-flavored beverage.",
+    "price": 1.8,
+    "rating": 4.2
+  },
+  {
+    "name": "Hot Chocolate",
+    "imagePath": "assets/hot_chocolate.png",
+    "description": "A heated beverage consisting of shaved chocolate, melted chocolate or cocoa powder, heated milk or water,and usually a sweetener",
+    "price": 2.5,
+    "rating": 4.4
+  },
+  {
+    "name": "Apple Cider",
+    "imagePath": "assets/apple_cider.png",
+    "description": "A non-alcoholic beverage made from the pressed and unfiltered juice of apples.",
+    "price": 2.2,
+    "rating": 4.1
+  },
+  {
+    "name": "Iced Tea",
+    "imagePath": "assets/iced_tea.png",
+    "description": "A form of cold tea, often served in a glass with ice.",
+    "price": 2.3  ,
+    "rating": 4.3
+  }
+]
+
